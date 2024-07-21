@@ -1,0 +1,2 @@
+Alpine.magic("fetchedSection",()=>(url,selector)=>async()=>await fetchSectionHTML(url,selector)),document.addEventListener("DOMContentLoaded",()=>{Alpine.start()});
+//# sourceMappingURL=/cdn/shop/t/2/assets/alpine-extensions.js.map?v=95811398729610723851656957270
